@@ -189,5 +189,4 @@ pipelines:
                 - -c
                 - sh killremovedockercmp.sh
                 command: /bin/bash
-                run_if: passed  
-            
+                run_if: passed
